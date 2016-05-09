@@ -1,0 +1,29 @@
+app/customerLocation.service.ts(15,15): error TS2346: Supplied parameters do not match any signature of call target.
+app/customerLocation.service.ts(21,13): error TS2339: Property 'name' does not exist on type 'UserError'.
+app/customerLocation.service.ts(22,13): error TS2339: Property 'message' does not exist on type 'UserError'.
+app/products.component.ts(20,5): error TS7008: Member 'customerId' implicitly has an 'any' type.
+app/products.component.ts(21,5): error TS7008: Member 'products' implicitly has an 'any' type.
+app/products.component.ts(22,5): error TS7008: Member 'category' implicitly has an 'any' type.
+app/products.component.ts(26,5): error TS7008: Member 'selectedProducts' implicitly has an 'any[]' type.
+app/products.component.ts(28,14): error TS7006: Parameter '$event' implicitly has an 'any' type.
+app/products.component.ts(28,22): error TS7006: Parameter 'product' implicitly has an 'any' type.
+app/products.service.ts(2,17): error TS7006: Parameter 'catalogue' implicitly has an 'any' type.
+app/products.service.ts(4,13): error TS7005: Variable 'result' implicitly has an 'any[]' type.
+app/products.service.ts(5,27): error TS7006: Parameter 'product' implicitly has an 'any' type.
+app/products.service.ts(21,13): error TS7005: Variable 'toReturn' implicitly has an 'any[]' type.
+app/app.component.ts(33,5): error TS7008: Member 'customerId' implicitly has an 'any' type.
+app/app.component.ts(34,5): error TS7008: Member 'mapSelectedProducts' implicitly has an 'any[]' type.
+app/app.component.ts(35,5): error TS7008: Member 'selectedProducts' implicitly has an 'any' type.
+app/app.component.ts(36,5): error TS7008: Member 'categories' implicitly has an 'any[]' type.
+app/app.component.ts(37,5): error TS7008: Member 'newsProducts' implicitly has an 'any[]' type.
+app/app.component.ts(38,5): error TS7008: Member 'toCheckout' implicitly has an 'any[]' type.
+app/app.component.ts(39,5): error TS7008: Member 'location' implicitly has an 'any[]' type.
+app/app.component.ts(40,5): error TS7008: Member 'catalogue' implicitly has an 'any[]' type.
+app/app.component.ts(46,34): error TS2341: Property 'getCookie' is private and only accessible within class 'CookieService'.
+app/app.component.ts(51,14): error TS2322: Type 'String' is not assignable to type 'any[]'.
+  Property 'push' is missing in type 'String'.
+app/app.component.ts(52,59): error TS2345: Argument of type 'any[]' is not assignable to parameter of type 'String'.
+  Property 'charAt' is missing in type 'any[]'.
+app/app.component.ts(61,31): error TS7006: Parameter '$event' implicitly has an 'any' type.
+app/app.component.ts(71,16): error TS7006: Parameter '$event' implicitly has an 'any' type.
+app/app.component.ts(75,20): error TS7006: Parameter '$event' implicitly has an 'any' type.

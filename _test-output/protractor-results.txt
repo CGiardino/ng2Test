@@ -1,0 +1,71 @@
+Protractor results for: 5/10/2016, 12:02:01 AM
+
+AppDir:./
+  Suite: If the customer goes on Product selection -- null
+
+  Suite: When he selects or unselects a product -- failed
+    failed - The basket is updated to show the selected products in London
+      message: Error: Timeout - Async callback was not invoked within timeout specified by jasmine.DEFAULT_TIMEOUT_INTERVAL.
+      message: Failed: Angular could not be found on the page http://localhost:3000/ : retries looking for angular exceeded
+      message: Failed: Cannot read property 'ver' of null
+    failed - The basket is updated to show the selected products in Liverpool
+      message: Failed: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4),platform=Mac OS X 10.11.4 x86_64)
+      message: Failed: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4),platform=Mac OS X 10.11.4 x86_64)
+    failed - The basket is empty with error message when client id is not retrieved
+      message: Failed: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4),platform=Mac OS X 10.11.4 x86_64)
+      message: Failed: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4),platform=Mac OS X 10.11.4 x86_64)
+    failed - The error message is hidden when customer id is valid
+      message: Failed: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4),platform=Mac OS X 10.11.4 x86_64)
+      message: Failed: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4),platform=Mac OS X 10.11.4 x86_64)
+
+  Suite: When he chooses checkout -- failed
+    failed - he is taken to the confirmation page
+      message: Failed: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4),platform=Mac OS X 10.11.4 x86_64)
+      message: Failed: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4),platform=Mac OS X 10.11.4 x86_64)
+
+  Suite: When he chooses checkout -- failed
+    failed - the customer id and selected products are posted to the confirmation page
+      message: Failed: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4),platform=Mac OS X 10.11.4 x86_64)
+      message: Failed: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4),platform=Mac OS X 10.11.4 x86_64)
+
+  Suite: When he chooses checkout and cancel -- failed
+    failed - the previous selected products need to be checked
+      message: Failed: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4),platform=Mac OS X 10.11.4 x86_64)
+      message: Failed: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4),platform=Mac OS X 10.11.4 x86_64)
+
