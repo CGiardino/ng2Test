@@ -15,7 +15,7 @@ then simultaneously re-compiles and runs the `lite-server`.
 
 Here are the test related scripts:
 
-Open new terminal going to the project folder, keeping the server running
+Open a new terminal going to the project folder, keeping the server running
 * `npm run webdriver` - to update chromedriver
 * `npm run e2e` - run protractor e2e tests, written in JavaScript (*e2e-spec.js)
 * `npm test` - run karma with unit tests
